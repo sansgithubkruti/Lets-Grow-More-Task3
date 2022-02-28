@@ -1,0 +1,80 @@
+.container {
+    border-radius: 5px 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 15px;
+    margin-left: 170px;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    display: block;
+    height: 600px;
+    width: 350px;
+    color: #fff;
+}
+
+body {
+    background: url("https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/tnc_91756359_Full.jpg?crop=0,283,4000,2100&wid=1200&hei=630&scl=3.3333333333333335");
+    background-size: 120%;
+    background-position: -150px 0px;
+    background-repeat: no-repeat;
+}
+
+input {
+    width: 100%;
+    padding: 7px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 7px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    resize: vertical;
+}
+
+#submit {
+    cursor: pointer;
+    font-size: 20px;
+    background-color: rgb(0, 255, 34);
+    width: 100px;
+    color: #fff;
+    margin-left: 60px;
+}
+
+table,
+td,
+th {
+    border: 1px solid rgb(255, 247, 247);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #fff;
+}
+
+th {
+    height: 40px;
+}
+
+.form {
+    background-color: rgb(255, 251, 251);
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: 1px rgb(255, 254, 254);
+    height: 400px;
+    width: 550px;
+    padding-left: -40px;
+    text-align: center;
+    font: bold;
+    display: inline-block;
+    border: 5px solid rgb(253, 252, 252);
+}
+
+.table {
+    padding-left: -10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: 600px;
+    margin-top: -690px;
+    height: 690px;
+    font: bold;
+    width: 720px;
+}
